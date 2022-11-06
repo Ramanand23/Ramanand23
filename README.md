@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ahh, Greetings earthlings, Welcome to my ![github]. I am Ramanand 👋
+###
+###
+### I'm a PLSQL developer with an extensive knowledge of SQL & Unix Shell Scripting working in Mumbai, India.
 
 <!--
 **Ramanand23/Ramanand23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
