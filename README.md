@@ -1,12 +1,13 @@
 ## Greetings earthlings, I am Ramanand 👋👨🏻‍💻
 
-Welcome to my GitHub page. 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68180773/201176336-91cf0c98-9e02-4dc7-ba7b-e29d48a296e3.gif)
+
 
 <!-- I'm a software engineer based in Mumbai,India. -->
 <!-- Keep Profile Picture as bitmoji -->
 <!-- Add a gif of querying your a 'Hi message' as "select Ramanand from humans/earthlings" -->
 
-I'm a Data Scientist experienced in PLSQL,SQL,Python,Shell Scripting,AutoSys based in Mumbai, India. 
+I'm a Data Scientist adept in PLSQL,SQL,Python,Shell Scripting,AutoSys based in Mumbai, India. 
 
 Bio :
 
@@ -14,11 +15,11 @@ Bio :
 - 🎓 Graduated as an Electronics & Telecomm. engineer who has leaning for coding & software development.
 - 👾 Enjoys automating tasks to make life easier. Primarily with shell script, but also occasionally with Python.
 - 🌱 Learning all about open source.
-- Have a keen interest in designing 
-- ⚡️ Fun fact:
+- 🧑🏻‍🎨 Have keen interest in designing, photo & film editing using Adobe photoshop, premiere,illustration,blender.     
+- ⚡️ Fun fact: I have touched 200 kmph on my bike on a track. 
 
 
-🛠 Languages & Tech Stack : 
+🛠 Languages I'm familiar with : 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,mysql,c,cpp,github)](https://skillicons.dev) -->
 
@@ -30,12 +31,23 @@ Bio :
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+⚙️ Development Tools I've used : 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
+
+
+ 🕹 Operating Systems known :
+ 
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 📬 How to reach me:
 
