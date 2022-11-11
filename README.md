@@ -19,8 +19,10 @@ I'm a Data Scientist adept in PLSQL,SQL,Python,Shell Scripting,AutoSys based in 
 - 🧑🏻‍🎨 Have keen interest in designing, photo & film editing using Adobe photoshop, premiere,illustration,blender.     
 - ⚡️ Fun fact: I have touched 200 kmph on my bike on a track. 
 
+<details>
+<summary>🛠 Languages I'm familiar with </summary>
 
-🛠 Languages I'm familiar with : 
+ 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,mysql,c,cpp,github)](https://skillicons.dev) -->
 
@@ -31,24 +33,28 @@ I'm a Data Scientist adept in PLSQL,SQL,Python,Shell Scripting,AutoSys based in 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+</details>
 
-⚙️ Development Tools I've used : 
+<details>
+ <summary>⚙️ Development Tools I've used </summary> 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+</details>
 
-
-
- 🕹 Operating Systems known :
+ <details>
+  <summary>🕹 Operating Systems known </summary> 
  
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+</details>
+
 
 📬 How to reach me:
 
