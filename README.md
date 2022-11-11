@@ -1,6 +1,7 @@
 ## Greetings earthlings, I am Ramanand 👋👨🏻‍💻
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/68180773/201176336-91cf0c98-9e02-4dc7-ba7b-e29d48a296e3.gif)
+<!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/68180773/201176336-91cf0c98-9e02-4dc7-ba7b-e29d48a296e3.gif) -->
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/68180773/201270178-7ced38e0-ee8a-480c-89b8-a3116f96b321.gif)
 
 
 <!-- I'm a software engineer based in Mumbai,India. -->
