@@ -12,9 +12,9 @@ I'm a Data Scientist adept in PLSQL,SQL,Python,Shell Scripting,AutoSys based in 
 Bio :
 
 - 🏢 I'm currently working at _TCS_  
-- 🎓 Graduated as an Electronics & Telecomm. engineer who has leaning for coding & software development.
-- 👾 Enjoys automating tasks to make life easier. Primarily with shell script, but also occasionally with Python.
 - 🌱 Learning all about open source.
+- 👾 Enjoys automating tasks to make life easier. Primarily with shell script, but also occasionally with Python.
+- 🎓 Graduated as an Electronics & Telecomm. engineer who has leaning for coding & software development.
 - 🧑🏻‍🎨 Have keen interest in designing, photo & film editing using Adobe photoshop, premiere,illustration,blender.     
 - ⚡️ Fun fact: I have touched 200 kmph on my bike on a track. 
 
