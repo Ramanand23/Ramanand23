@@ -8,7 +8,7 @@
 <!-- Keep Profile Picture as bitmoji -->
 <!-- Add a gif of querying your a 'Hi message' as "select Ramanand from humans/earthlings" -->
 
-I'm a Software Engineer adept in PLSQL,SQL,Python,Shell Scripting,AutoSys based in Mumbai, India. 
+I'm a Software Engineer adept in PLSQL, SQL, C, Python, Shell Scripting, AutoSys based in Mumbai, India. 
 
 👨🏻‍💻 Bio :
 
