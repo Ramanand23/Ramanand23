@@ -8,13 +8,13 @@
 <!-- Keep Profile Picture as bitmoji -->
 <!-- Add a gif of querying your a 'Hi message' as "select Ramanand from humans/earthlings" -->
 
-I'm a Software Engineer adept in PLSQL, SQL, C, Python, Shell Scripting, AutoSys based in Mumbai, India. 
+<!-- I'm a Software Engineer adept in PLSQL, SQL, C, Python, Shell Scripting, AutoSys based in Mumbai, India. -->
 
 👨🏻‍💻 Bio :
 
 - 🏢 I'm currently working at _TCS_  
 - 🌱 Learning all about open source.
-- 👾 Enjoys automating tasks to make life easier. Primarily with shell script, but also occasionally with Python.
+- 👾 Enjoys automating tasks to make life easier. Primarily with shell script, Python, C++ etc along with SQL & PLSQL.
 - 🎓 Graduated as an Electronics & Telecomm. engineer who has leaning for coding & software development.
 - 🧑🏻‍🎨 Have keen interest in designing, photo & film editing using Adobe photoshop, premiere,illustration,blender.     
 - ⚡️ Fun fact: I have touched 200 kmph on my bike on a track. 
